@@ -10,12 +10,12 @@ ClimateWin are a non-profit organisaation based in Europe who are extremely conc
 3. Does the perception of  corruption have a negative effect on happiness?
 4. How can a country effectively increase  happiness?
 
-## Data & Tools
+## Data 
 
-The dataset “World Happiness Report 2015–2019” from Kaggle includes comprehensive information on key happiness factors. Python was used for analysis and Tableau  to create the visualisation/storyboard. 
+18 weather stations across Europe. The weather stations have been collecting data from the late 1800s to 2022. The dataset includes daily values such as temperature, wind speed, snow, global radiation.
 
-## Tableau Storyboard
 
-Click the link to view the storyboard
+## Tools
+1. Python
+2. Powerpoint
 
-https://public.tableau.com/app/profile/mosharrf.miah/viz/WorldHappinessAnalysisStory/Story1
