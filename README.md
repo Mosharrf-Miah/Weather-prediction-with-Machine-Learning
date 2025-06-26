@@ -21,5 +21,9 @@ ClimateWin are a non-profit organisaation based in Europe who are extremely conc
 
 ## Tools
 1. Python
-2. Powerpoint
+   ANN
+   Decision Tree
+   KNN
+   
+3. Powerpoint
 
